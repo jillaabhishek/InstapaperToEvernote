@@ -1,0 +1,9 @@
+{
+  "Sandbox": true,
+  "consumerKey": "jilla94",
+  "consumerSecret": "caf2a9dd1fd3c4ca",
+  "evernoteHostName": "https://sandbox.evernote.com",
+  "token": "S=s1:U=96741:E=183640b829c:C=17c0c5a54b8:P=185:A=jilla94:V=2:H=f9650b42bf1072120185481385af3b88",
+  "tokenExpirationTimestamp": 1663830819484,
+  "NoteBookGuidId": "1a16edeb-137a-4d4f-965b-2b17a27b250e"
+}

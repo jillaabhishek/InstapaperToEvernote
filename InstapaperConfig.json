@@ -1,0 +1,8 @@
+{
+    "SignatureMethod": "HMAC-SHA1",
+    "ConsumerKey" : "c9feefb712cb45efb50e04e1a73a80fa",
+    "ConsumerSecret":"491f011792464ab4b98fff7354334cb9",
+    "AccessToken":"55d664a803764e2592e725ccbac3ba05",
+    "TokenSecret":"d0312c424c204fe192412dc6ffe04167"
+}
+
